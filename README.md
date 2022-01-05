@@ -2,8 +2,8 @@
 
 
 
--📘👨🏽‍🎓✍🏽💻 - Eu atualmente estudo JavaScript e MySQL, tive uma noção de CSS e HTML, mas pretendo me dedicar no começo ao BackEnd e começar os estudos pelo JavaScipt, Python e MySQL.<br>
--🍕🥩🍖 - Amante de pizza e churrasco, pois ninguem é de ferro!! 😅 <br>
+-📘👨🏽‍🎓✍🏽💻 - Eu atualmente estudo JavaScript e MySQL, tive uma noção de CSS e HTML, mas pretendo me dedicar no começo ao BackEnd e começar os estudos pelo JavaScipt, Python e MySQL.<br><br>
+-🍕🥩🍖 - Amante de pizza e churrasco, pois ninguem é de ferro!! 😅 <br><br>
 -👨‍👩‍👧‍👧🥰 - Casado e pai de 2 princesas!! 👸🏽👧🏽 
 
 
